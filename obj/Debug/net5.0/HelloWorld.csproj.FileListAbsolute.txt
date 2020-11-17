@@ -1,0 +1,16 @@
+D:\HACKTIV8\Self-Project\test\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+D:\HACKTIV8\Self-Project\test\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+D:\HACKTIV8\Self-Project\test\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+D:\HACKTIV8\Self-Project\test\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+D:\HACKTIV8\Self-Project\test\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+D:\HACKTIV8\Self-Project\test\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+D:\HACKTIV8\Self-Project\test\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+D:\HACKTIV8\Self-Project\test\HelloWorld\obj\Debug\net5.0\HelloWorld.csprojAssemblyReference.cache
+D:\HACKTIV8\Self-Project\test\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\HACKTIV8\Self-Project\test\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+D:\HACKTIV8\Self-Project\test\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+D:\HACKTIV8\Self-Project\test\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\HACKTIV8\Self-Project\test\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+D:\HACKTIV8\Self-Project\test\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+D:\HACKTIV8\Self-Project\test\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+D:\HACKTIV8\Self-Project\test\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache
